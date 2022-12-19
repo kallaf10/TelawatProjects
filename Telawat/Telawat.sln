@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telawat", "Telawat\Telawat.csproj", "{87EC640E-DEA4-441C-976D-32B0C6363015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EC640E-DEA4-441C-976D-32B0C6363015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EC640E-DEA4-441C-976D-32B0C6363015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EC640E-DEA4-441C-976D-32B0C6363015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EC640E-DEA4-441C-976D-32B0C6363015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AF3591-E23D-4DF1-B46B-791B456B4804}
+	EndGlobalSection
+EndGlobal
